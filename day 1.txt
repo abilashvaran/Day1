@@ -12,6 +12,7 @@ Interpreter:
 It will run the code one by one so here run time error will occur.
 
 hi this absilasbdli
+add this line for conflict case 2
 
 History:
 *Javascript was developed by Brenden Eich in the year of 1995.
