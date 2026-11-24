@@ -11,6 +11,8 @@ High level programming language, Scripting Language, Mainly used on webpages.
 Interpreter:
 It will run the code one by one so here run time error will occur.
 
+hi this absilasbdli
+
 History:
 *Javascript was developed by Brenden Eich in the year of 1995.
 *He was working Netscape as developer
